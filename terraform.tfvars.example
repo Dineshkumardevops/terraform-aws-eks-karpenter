@@ -1,0 +1,4 @@
+region          = "us-east-1"
+cluster_name    = "karpenter-demo"
+kubernetes_version = "1.29"
+karpenter_version  = "0.35.0"
